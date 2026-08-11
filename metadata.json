@@ -1,0 +1,6 @@
+{
+  "name": "Utla Bass",
+  "description": "Advanced Material You music player app with soft dynamic colors, fluid mini-player transition, local audio scanning, and sub-bass audio controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
